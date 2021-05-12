@@ -1,8 +1,0 @@
-Q1. Write a Python program that ask for users’ birthday and return his/her Zodiac sign (25 points).
-Q2. Write a Python program that ask user enter any date and return first day and last day of previous
-month (25 points).
-Q3: Write a Python function that ask user enter 2 different strings, and return the common word(s) and
-its count of both strings (25 points).
-Q4: Write a Python class that allows us to track item count and total amount in cash register. The class
-should allow 1) add item and price to cash register, 2) check total money and item in cash register.
-Submit a class file and an invoking file to test your python class (25 points).
